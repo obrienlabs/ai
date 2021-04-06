@@ -1,0 +1,35 @@
+
+Environment Environnement
+Franktown
+Mariadas
+Canada
+XFT
+1700 UTC
+2012-06-03
+Scale/Echelle
+1 km/Pixel
+40 KM H
+1
+Rain/Pluie
+mm/hr
+dBZ
+200
+60
+100
+55
+50
+50
+24
+45
+12
+40
+4
+33
+1
+23
+0.1
+7
+CAPPI 1.5 km
+Noise/Bruit: 40.2
+Elev/Alt: 0.32
+Canada
